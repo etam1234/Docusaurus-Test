@@ -8,8 +8,6 @@ Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
 
-*This line is here to test out the version feature of docusaurus*
-
 Get started by **creating a new site**.
 
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
@@ -20,8 +18,6 @@ Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
 ## Generate a new site
-
-### Testing the version and changing them
 
 Generate a new Docusaurus site using the **classic template**.
 
