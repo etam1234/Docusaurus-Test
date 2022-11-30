@@ -3,7 +3,7 @@
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ## NOTE: 
-*The purpose of this repo was to test deployment of Docusaurus, in addition to using several tools/features (such as versions and a local search bar).*
+*The purpose of this repo was to test deployment of Docusaurus, via Github pages, in addition to using several tools/features (such as versions and a local search bar).*
 
 I plan to continue with a new repo to utilize Docusaurus for its handy features and ease of use!
 
